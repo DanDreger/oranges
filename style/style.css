@@ -1,0 +1,130 @@
+
+body {
+	padding: 			0;
+	margin: 			0;
+}
+
+nav {
+	display: 			fixed;
+	width: 				100%;
+	top:				0;
+	background-color:  	#fe6900;
+	height: 			100px;
+	font-family: 		'Comfortaa', cursive;
+}
+
+img {
+	width: 				52px;
+	height: 			33px;
+}
+
+.logo {
+	position: 			absolute;
+	top: 				20px;
+	left:				50px;
+	font-size: 			32px;
+	color: 				white;
+}
+
+.orange {
+	font-weight: 		700;
+	font-family: 'Comfortaa', cursive;
+}
+
+.juice {
+	font-weight: 		300;
+	font-family: 		'Poiret One', cursive;
+}
+
+.top {
+	display: 			inline-block;
+	text-decoration: 	none;
+	color: 				white;
+	padding: 			15px;
+	font-size:			1.10em;
+}
+
+.navigation {
+	width: 				auto;
+	float:				right;
+	margin-right: 		5%;
+}
+
+.searchbar {
+	height: 			50px;
+}
+
+input {
+	width: 				20%;
+	float: 				right;
+	margin: 			2px 50px 0 0;
+	height: 			30px;
+	background-color: 	#ebebeb;
+	font-size: 			15px;
+	color: 				#c9c9c9;
+	border: 			1px solid #c9c9c9;
+	border-radius: 		2px;
+}
+
+i {
+	position: 			absolute;
+	top: 				112px;
+	right: 				61px;
+	color: 				#c9c9c9;
+}
+
+
+.oranges {
+	width: 				40%;
+	height:				40%;
+	float:				left;
+	margin: 			7% 5% 10% 5%;
+}
+
+p {
+	font-size: 			35px;
+	color: 				#fe6900;
+	margin:				13% 4% 0 0;
+	font-family: 		'Poiret One', cursive;
+}
+
+.blue {
+	color: 				#67c3bd;
+	font-weight: 		900;
+	font-family: 		'Comfortaa', cursive;		
+}
+
+button {
+	margin: 			3% 2% 2% 2%;
+}
+
+.button1 {
+	width: 				17.5%;
+	height: 			40px;
+	background-color: 	#fe6900;
+	font-family: 		'Comfortaa', cursive;
+	color: 				white;
+	border-radius: 		5px;
+}
+
+.button2 {
+	width: 				17.5%;
+	height: 			40px;
+	background-color: 	#67c3bd;
+	font-family: 		'Comfortaa', cursive;
+	color:				white;
+	border-radius: 		5px;
+}
+
+
+footer {
+	height: 			100px;
+	width: 				100%;
+	background-color: 	#67c3bd;
+	clear: 				left;
+	margin-top: 		100px;
+}
+
+
+font-family: 'Comfortaa', cursive;
+font-family: 'Poiret One', cursive;
